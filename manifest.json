@@ -20,8 +20,8 @@
   "content_scripts": [
     {
       "matches": [
-        "https://zoom.us/postattendee",
-        "https://zoom.us/j/*"
+        "https://instartlogic.zoom.us/postattendee",
+        "https://instartlogic.zoom.us/j/*"
       ],
       "js": [
         "content.js"
